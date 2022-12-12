@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project specific
+stuff_to_ignore
+sandbox*
+draft*
+scratch_pad.ipynb
+code_snippets.ipynb
+index.html
+*.gz
+.secret
+learning*
+notes.txt
+* - Copy.ipynb
